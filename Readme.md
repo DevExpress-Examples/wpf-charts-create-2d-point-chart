@@ -8,7 +8,7 @@
 
 This example shows how to create a [2D Point](https://docs.devexpress.com/WPF/5868/controls-and-libraries/charts-suite/chart-control/series/2d-series-types/point-line-and-bubble-series/point) chart and configure its titles, label format, axes, and appearance.
 
-![](Images/2D-Point-chart-example.png)
+![](Images/2D-point-chart-example.png)
 
 <!-- default file list -->
 ## Files to Look At
